@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 ```javascript
-const techqueBoy = {
+const orvilDabreo = {
     role: "Developer",
     location: "Earth 🌍",
     languages: ["HTML", "CSS", "JavaScript", "Python", "C++"],
