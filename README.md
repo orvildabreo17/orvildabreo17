@@ -4,7 +4,7 @@
 
 ### Turning ideas into reality through code.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Python+Programmer;UI%2FUX+Enthusiast;Open+Source+Learner;Building+Cool+Things+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Python+Programmer;UI%2FUX+Enthusiast;Open+Source+Learner;Building+Cool+Things+Every+Day" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=orvildabreo17&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
@@ -196,7 +196,7 @@ while True:
 <div align="center">
 
 <a href="mailto:orvildabreo1708@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-orvildabreo17@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
