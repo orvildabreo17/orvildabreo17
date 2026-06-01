@@ -196,7 +196,7 @@ while True:
 <div align="center">
 
 <a href="mailto:orvildabreo1708@gmail.com">
-    <img src="https://img.shields.io/badge/Email-orvildabreo1708%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
