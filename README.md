@@ -4,7 +4,7 @@
 
 ### Turning ideas into reality through code.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Python+Programmer;UI%2FUX+Enthusiast;Open+Source+Learner;Building+Cool+Things+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Python+Programmer;UI%2FUX+Enthusiast;Open+Source+Learner;Building+Cool+Things+Every+Day" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=orvildabreo17&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
@@ -25,6 +25,12 @@ const orvilDabreo = {
         "Tailwind CSS",
         "Bootstrap",
         "Modern Frameworks"
+    ],
+    backend: [
+        "Python",
+        "Node.js",
+        "Express.js",
+        "MongoDb"
     ],
     tools: [
         "Git",
