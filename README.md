@@ -199,7 +199,7 @@ while True:
     <img src="https://img.shields.io/badge/Email-orvildabreo17@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" />
