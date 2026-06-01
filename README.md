@@ -155,7 +155,7 @@ const orvilDabreo = {
 
 ```bash
 $ whoami
-TECHQUE BOY
+ORVIL DABREO
 
 $ skills
 HTML
@@ -193,13 +193,19 @@ while True:
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/orvildabreo17">
+<a href="mailto:orvildabreo1708@gmail.com">
+    <img src="https://img.shields.io/badge/Email-orvildabreo1708%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-</p>
+</div>
 
 ---
 
