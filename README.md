@@ -91,8 +91,8 @@ const orvilDabreo = {
 
 ## 🏗️ Featured Projects
 
-### 🎵 Guitar Effects Simulator
-A web-based guitar effects simulator with delay, reverb, and distortion controls.
+### Project 1
+description
 
 **Tech:** HTML, CSS, JavaScript
 
@@ -100,8 +100,8 @@ A web-based guitar effects simulator with delay, reverb, and distortion controls
 
 ---
 
-### 🏏 Cricket Scoreboard App
-A complete cricket scoring application with innings management, overs tracking, and live score calculations.
+### Project 2
+description
 
 **Tech:** HTML, CSS, JavaScript
 
@@ -109,8 +109,8 @@ A complete cricket scoring application with innings management, overs tracking, 
 
 ---
 
-### 🤖 Python Automation Tools
-Collection of automation scripts for productivity and everyday tasks.
+### Project 3
+description
 
 **Tech:** Python
 
@@ -118,8 +118,8 @@ Collection of automation scripts for productivity and everyday tasks.
 
 ---
 
-### 🎮 Arduino Controlled 3D Game
-3D game controlled using Arduino joystick input and serial communication.
+### Project 4
+description
 
 **Tech:** Python, Ursina, Arduino
 
